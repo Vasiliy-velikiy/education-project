@@ -1,0 +1,15 @@
+#ide files
+.idea/
+
+#build of project
+build/
+
+#gradle files
+.gradle/
+
+#compiled files
+*.class
+
+#logging
+*.log
+
